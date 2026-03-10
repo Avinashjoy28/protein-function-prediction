@@ -1,0 +1,13 @@
+.env
+api.json
+data/
+results/models
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+*.pkl
+*.pt
+run.sh
+/.venv
+/.ipynb_checkpoints
+/results/metrics
